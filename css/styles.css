@@ -1,0 +1,23 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+#map {
+  width: 100%;
+  height: 100vh;
+}
+
+/* Ruta principal */
+.ruta-principal {
+  color: #0066ff;
+  weight: 5;
+}
+
+/* Ruta secundaria */
+.ruta-secundaria {
+  color: #28a745;
+  weight: 4;
+  dashArray: 6,6;
+}
