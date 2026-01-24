@@ -1,1 +1,17 @@
 
+{
+  "id": "18-octubre",
+  "nombre": "18 de Octubre",
+  "precios": {
+    "carrito": {
+      "normal": 15,
+      "estudiante": 10
+    },
+    "bus": {
+      "normal": 20,
+      "estudiante": 12
+    }
+  },
+  "moneda": "VES",
+  "ultima_actualizacion": "2026-01-24"
+}
